@@ -8,7 +8,7 @@ Summary:	Friendlier RFC 6265-compliant cookie parser/renderer
 Summary(pl.UTF-8):	Bardziej przyjazny parser/renderer ciasteczek zgodny z RFC 6265
 Name:		python-cookies
 Version:	2.2.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/cookies/
